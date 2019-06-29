@@ -1,0 +1,13 @@
+{
+ "foods" : [
+  		{
+  		  "foodColor" : "RED",
+  		  "points" : 15
+  		},
+  		{
+    
+    		"foodColor" : "BlUE",
+   		 "points" : 20
+ 		 }
+	]
+}
